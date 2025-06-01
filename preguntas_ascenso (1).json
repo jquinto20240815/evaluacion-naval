@@ -1,0 +1,22 @@
+[
+  {
+    "pregunta": "Cultura Naval – Pregunta 1: ¿Cuál es el propósito fundamental de la doctrina naval mexicana?",
+    "opciones": [
+      "Proyectar el poder naval en conflictos internacionales",
+      "Guiar el comportamiento del personal naval",
+      "Sustituir la legislación marítima internacional",
+      "Establecer relaciones comerciales con potencias extranjeras"
+    ],
+    "respuesta": "Guiar el comportamiento del personal naval"
+  },
+  {
+    "pregunta": "Legislación Naval – Pregunta 1: ¿Qué ley establece las normas generales de disciplina en la Armada de México?",
+    "opciones": [
+      "Ley Orgánica de la Armada de México",
+      "Código de Justicia Militar",
+      "Ley de Disciplina para el Personal de la Armada de México",
+      "Reglamento Interior de la Secretaría de Marina"
+    ],
+    "respuesta": "Ley de Disciplina para el Personal de la Armada de México"
+  }
+]
